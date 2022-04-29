@@ -2,4 +2,6 @@
 
 ![](https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/SU_SealColor_web3.png)
 
-Updated in Spring 2022
+Updated in Spring 2022 
+
+Course website: [cs231n](http://cs231n.stanford.edu/)
